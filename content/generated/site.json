@@ -1,0 +1,77 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Blue Lock Farm Wiki",
+  "shortName": "Blue Lock Farm",
+  "description": "Independent Blue Lock Farm Roblox wiki and guide covering working codes, lockers, Trait Tokens, Grade Tokens, Jackpot Tokens, updates and progression.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Blue Lock Farm Guide Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "220 48% 8%",
+      "foreground": "210 40% 98%",
+      "card": "217 47% 15%",
+      "card-foreground": "210 40% 98%",
+      "primary": "213 100% 59%",
+      "primary-foreground": "220 48% 8%",
+      "secondary": "218 40% 18%",
+      "muted": "218 42% 13%",
+      "muted-foreground": "215 25% 78%",
+      "border": "217 35% 24%",
+      "radius": ".4rem",
+      "card-shadow": "none",
+      "hero-gradient": "none",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "600",
+      "heading-letter-spacing": "-0.015em"
+    },
+    "skin": "wiki",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "appearanceVersion": 2,
+    "accentColorId": "electric-cyan",
+    "colorMode": "custom",
+    "background": "#0B1220",
+    "accent": "#2F8CFF",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://blue-lock-farm.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": "https://github.com/blue-lock-farm/blue-lock-farm.github.io",
+  "allowedExternalDomains": [
+    "roblox.com",
+    "www.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/blue-lock-farm-logo.webp",
+    "cover": "/images/blue-lock-farm-cover.webp",
+    "openGraph": "/images/blue-lock-farm-cover.webp",
+    "favicon": "/images/blue-lock-farm-logo.webp"
+  },
+  "game": {
+    "name": "Blue Lock Farm",
+    "platform": "Roblox",
+    "developer": "Finding Illusions",
+    "genre": "Simulation / Tycoon",
+    "officialUrl": "https://www.roblox.com/games/132767904294856/Blue-Lock-Farm"
+  },
+  "seo": {
+    "titleTemplate": "%s",
+    "defaultKeywords": [
+      "Blue Lock Farm",
+      "Blue Lock Farm wiki",
+      "Blue Lock Farm Roblox",
+      "Blue Lock Farm guide"
+    ]
+  }
+}

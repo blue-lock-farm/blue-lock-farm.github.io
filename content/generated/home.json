@@ -1,0 +1,198 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Blue Lock Farm Wiki – Codes, Lockers, Tokens & Guide",
+  "description": "Blue Lock Farm wiki with working codes, lockers, Trait Tokens, Grade Tokens, Jackpot Tokens, updates, and progression tips for the Roblox game.",
+  "keywords": [
+    "Blue Lock Farm",
+    "Blue Lock Farm wiki",
+    "Blue Lock Farm Roblox",
+    "Blue Lock Farm guide"
+  ],
+  "primaryKeyword": "Blue Lock Farm",
+  "secondaryKeywords": [
+    "Blue Lock Farm wiki",
+    "Blue Lock Farm Roblox",
+    "Blue Lock Farm guide"
+  ],
+  "searchIntent": "Players searching the game name want a quick overview of what Blue Lock Farm is and how to play, then jump into codes, tokens, lockers and updates.",
+  "priority": "P0",
+  "navVisible": true,
+  "factsStatus": "verified",
+  "wordCountTarget": 1400,
+  "hero": {
+    "eyebrow": "Roblox Simulation / Tycoon",
+    "heading": "Blue Lock Farm Wiki",
+    "lead": "Blue Lock Farm is a Roblox Simulation game by Finding Illusions built around Blue Lockers — and the official description says lockers open and money generates while you are offline.",
+    "supportingText": "This independent wiki explains how the locker loop works, which codes currently work, and how Trait Tokens, Grade Tokens and Jackpot Tokens fit into your progression.",
+    "primaryLink": {
+      "label": "Working Codes",
+      "slug": "blue-lock-farm-codes"
+    },
+    "secondaryLink": {
+      "label": "Play on Roblox",
+      "url": "https://www.roblox.com/games/132767904294856/Blue-Lock-Farm"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-is-blue-lock-farm",
+      "heading": "What Is Blue Lock Farm?",
+      "paragraphs": [
+        "Blue Lock Farm is a Roblox simulation and tycoon game developed by Finding Illusions. Instead of building a classic tycoon plot, you grow a farm of characters inspired by the Blue Lock theme. The core of the game is the locker loop: you open Blue Lockers to unlock characters, place those characters so they generate money for you, upgrade them to boost their earnings, and reinvest the cash into better lockers that give you a chance at stronger and rarer characters.",
+        "The official game description puts its core selling point plainly: lockers open and money generates while you are offline. That offline progression shapes how the game is played — the game rewards setting up a strong roster before you log off, and checking back regularly to reinvest what your farm generated while you were away.",
+        "Progression moves quickly in the early game. Almost every system feeds back into the same loop: more money buys more lockers, more lockers unlock more characters, and more characters generate more money. Token systems such as Grade Tokens and Trait Tokens layer on top of this loop by letting you improve the characters you already own rather than only adding new ones.",
+        "This Blue Lock Farm wiki keeps track of the parts of the game that change most often — working codes, token sources and post-update changes — so you can spend less time searching and more time building your roster."
+      ]
+    },
+    {
+      "id": "quick-start",
+      "heading": "Blue Lock Farm Quick Start",
+      "intro": "New to the game? This loop is the backbone of every session, from your first locker to your late-game roster.",
+      "steps": [
+        {
+          "heading": "Open your first Blue Lockers",
+          "description": "Lockers are your source of characters. Open the ones you start with to unlock your first roster members."
+        },
+        {
+          "heading": "Place the characters you unlock",
+          "description": "Placed characters are active earners. Get as many characters working for you as your setup allows."
+        },
+        {
+          "heading": "Collect the money your farm generates",
+          "description": "Money accumulates over time, and the official description says it keeps generating while you are offline — so there is something to collect every session."
+        },
+        {
+          "heading": "Upgrade characters to boost earnings",
+          "description": "Upgrades increase how much your placed characters make, making existing roster members more valuable before you buy anything new."
+        },
+        {
+          "heading": "Buy better lockers",
+          "description": "Better lockers cost more but give you a chance at stronger and rarer characters, which is the main long-term power jump."
+        },
+        {
+          "heading": "Redeem codes for free resources",
+          "description": "Codes from the developer grant tokens and potions that speed up every step above. Check the codes page before you play."
+        }
+      ]
+    },
+    {
+      "id": "codes",
+      "heading": "Blue Lock Farm Codes",
+      "paragraphs": [
+        "Finding Illusions releases codes that grant free rewards such as Trait Tokens, Grade Tokens, a Jackpot Token and potions. Codes are the fastest way to boost a new account, because token rewards let you improve characters you have not earned the resources for yet.",
+        "The current code list is short and changes whenever the developer pushes an update or event. New codes are usually announced around updates, so it is worth rechecking the list every time you play. Our codes page lists every known working code, what it rewards, exactly where to enter codes in the game, and the date the list was last checked."
+      ],
+      "links": [
+        {
+          "label": "Blue Lock Farm Codes (September 2026)",
+          "slug": "blue-lock-farm-codes",
+          "description": "Every working code, its reward type, and step-by-step redemption instructions."
+        }
+      ]
+    },
+    {
+      "id": "tokens-and-progression",
+      "heading": "Tokens and Progression",
+      "paragraphs": [
+        "Tokens are Blue Lock Farm's specialised currencies. Each type feeds a different part of character improvement, and the game's recent codes hand them out as free rewards. Knowing which token does what makes it much easier to decide what to spend and what to save."
+      ],
+      "subsections": [
+        {
+          "heading": "Trait Tokens",
+          "paragraphs": [
+            "Trait Tokens are tied to character traits. They have been awarded directly by recent codes, including the TRAITS and ADMINABUSE codes, which makes them the easiest specialised token to stock up on early."
+          ]
+        },
+        {
+          "heading": "Grade Tokens",
+          "paragraphs": [
+            "Grade Tokens are used for character grading at the Ranking stand in the Plaza, offering an alternative to paying cash for grade rolls. Codes such as WEATHER and ADMINABUSE have included Grade Tokens as part of their rewards."
+          ]
+        },
+        {
+          "heading": "Jackpot Token",
+          "paragraphs": [
+            "The Jackpot Token is a separate, rarer resource that has been reported as a reward from the POLISHER code. It works independently of Grade Tokens and Trait Tokens."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Trait Tokens guide",
+          "slug": "blue-lock-farm-trait-tokens",
+          "description": "How to get Trait Tokens and how they differ from Grade Tokens."
+        },
+        {
+          "label": "Grade Tokens guide",
+          "slug": "blue-lock-farm-grade-tokens",
+          "description": "What grading does, where the Ranking stand is, and how to earn free Grade Tokens."
+        },
+        {
+          "label": "Jackpot Token guide",
+          "slug": "blue-lock-farm-jackpot-token",
+          "description": "How to get a Jackpot Token and how it compares with the other token types."
+        }
+      ]
+    },
+    {
+      "id": "lockers",
+      "heading": "Blue Lock Farm Lockers",
+      "paragraphs": [
+        "Lockers are the heart of Blue Lock Farm. Opening Blue Lockers unlocks characters, and buying better lockers is how you access stronger and rarer roster members. Because placed characters generate the money that funds everything else, your locker choices shape how fast your farm grows.",
+        "The steady loop looks like this: open lockers, place the characters you unlock, upgrade them, then reinvest your offline earnings into the next locker tier. Our lockers guide walks through how the loop fits together, when it makes sense to save for a better locker instead of opening another cheap one, and the common mistakes that slow new players down."
+      ],
+      "links": [
+        {
+          "label": "Blue Lock Farm Lockers Guide",
+          "slug": "blue-lock-farm-lockers",
+          "description": "How lockers work, the locker-to-income loop, and when to buy a better locker."
+        }
+      ]
+    },
+    {
+      "id": "updates",
+      "heading": "Latest Blue Lock Farm Updates",
+      "paragraphs": [
+        "Blue Lock Farm is actively updated, and new codes, token mechanics and events tend to arrive in bursts around each patch. A code that worked last week can expire, and new codes often appear within days of an update — the September 2026 update wave alone introduced several new codes that handed out Trait Tokens and Grade Tokens.",
+        "Our updates page works as a dated changelog: what changed, when it changed, and what it means for your roster. If a code on the codes page has stopped working or a token mechanic has shifted, the update history is the first place the change is recorded."
+      ],
+      "links": [
+        {
+          "label": "Blue Lock Farm Updates",
+          "slug": "blue-lock-farm-updates",
+          "description": "Dated changelog of new codes, token changes and events."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is Blue Lock Farm on Roblox?",
+      "answer": "Yes. Blue Lock Farm is available on Roblox and is playable for free. You can find it on the official game page by Finding Illusions, which is linked from this site."
+    },
+    {
+      "question": "Who made Blue Lock Farm?",
+      "answer": "Blue Lock Farm was developed by Finding Illusions, the studio listed as the game's creator on its official Roblox page."
+    },
+    {
+      "question": "Does Blue Lock Farm generate money while offline?",
+      "answer": "Yes. The official game description states that lockers open and money generates while you are offline, so your farm keeps progressing between sessions."
+    },
+    {
+      "question": "Where do I enter Blue Lock Farm codes?",
+      "answer": "Open the Shop from the left side of the screen, scroll down to the code box, paste a working code, and press Redeem. The codes page on this wiki covers each step in detail."
+    },
+    {
+      "question": "What should I spend on first in Blue Lock Farm?",
+      "answer": "Focus on the core loop first: place every character you unlock, upgrade them to boost earnings, then save for better lockers. Redeem any working codes as well, because free tokens and potions from codes speed up every other investment."
+    },
+    {
+      "question": "Is this Blue Lock Farm wiki official?",
+      "answer": "No. This is an independent, fan-made guide maintained by players. It is not affiliated with Finding Illusions or Roblox."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-09-29"
+}
