@@ -10,9 +10,9 @@ if (integrations.analytics.provider === "google-analytics") {
   );
 }
 
-if (integrations.ads.provider === "adsterra-native") {
+if (integrations.ads.provider === "adsterra") {
   privacyIntegrationParagraphs.push(
-    "Adsterra Native advertising is enabled. Adsterra may process technical request information and applies its own privacy policy.",
+    "Adsterra advertising (banner, native and social bar formats) is enabled. Adsterra may process technical request information and applies its own privacy policy.",
   );
 }
 

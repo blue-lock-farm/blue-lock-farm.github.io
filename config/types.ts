@@ -120,9 +120,12 @@ export interface IntegrationConfig {
   ads:
     | { provider: "none" }
     | {
-        provider: "adsterra-native";
-        scriptUrl: string;
-        containerId: string;
+        provider: "adsterra";
+        bannerDesktopKey: string;
+        bannerMobileKey: string;
+        nativeScriptUrl: string;
+        nativeContainerId: string;
+        socialBarScriptUrl: string;
       };
   verification: {
     google: string | null;
